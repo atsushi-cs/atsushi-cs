@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Allan
+# Hi there 🙋‍♂️ I'm Allan
 
 I'm a computer science student passionate about AI, Cybersecurity, and coding challenges. I love collaborating on open-source projects and learning new technologies.
 
