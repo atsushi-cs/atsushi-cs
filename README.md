@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Allan
 
-<!--
-**atsushi-cs/atsushi-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student passionate about AI, Cybersecurity, and coding challenges. I love collaborating on open-source projects and learning new technologies.
 
-Here are some ideas to get you started:
+## 🔭 Currently working on
+- Exciting projects in computer architecture and algorithms
+- Improving my coding and problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+- Advanced algorithms and Computer architecture
+- Machine learning fundamentals
+
+## 👯 Looking to collaborate on
+- Open-source systems tools
+- Gaming-related projects
+
+## 💬 Ask me about
+- Cybersecurity challenges!
+- Competitive gaming
+- J-Rock and K-pop
+
+## 📫 How to reach me
+- [Email](mailto:allantsay@berkeley.edu)
+- [LinkedIn](https://linkedin.com/in/allantsay)
+
+## ⚡ Fun fact
+I'm a director of Cal Raijin Taiko ⚡⚡⚡ Go Bears!
