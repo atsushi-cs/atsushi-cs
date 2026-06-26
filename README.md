@@ -1,6 +1,6 @@
 # Hi there 🙋‍♂️ I'm Allan
 
-I'm a computer science student passionate about AI, gaming, and coding challenges. I love collaborating on open-source projects and learning new technologies.
+I'm a computer science student passionate about AI, gaming, and computer architecture. I love collaborating on open-source projects and learning new technologies.
 
 ## 🔭 Currently working on
 - Exciting projects in LLM Applications and React
@@ -8,7 +8,7 @@ I'm a computer science student passionate about AI, gaming, and coding challenge
 
 ## 🌱 Currently learning
 - Operating Systems
-- Graphics!
+- Computer Architecture
 
 ## 👯 Looking to collaborate on
 - Open-source systems tools
@@ -20,7 +20,7 @@ I'm a computer science student passionate about AI, gaming, and coding challenge
 - J-Rock and K-pop
 
 ## 📫 How to reach me
-- [Email](mailto:allantsay@berkeley.edu)
+- [Email](mailto:atsay.0312@gmail.com)
 - [LinkedIn](https://linkedin.com/in/allantsay)
 
 ## ⚡ Fun fact
