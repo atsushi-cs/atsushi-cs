@@ -4,20 +4,19 @@ I'm a computer science student passionate about AI, gaming, and computer archite
 
 ## 🔭 Currently working on
 - Exciting projects in LLM Applications and React
-- Improving my coding and problem-solving skills
+- Improving my comp arch by building a Risc-V CPU!
 
 ## 🌱 Currently learning
 - Operating Systems
 - Computer Architecture
+- LLM Application Engineering
 
 ## 👯 Looking to collaborate on
 - Open-source systems tools
-- Gaming-related projects
 
 ## 💬 Ask me about
 - LLMs
-- Competitive gaming
-- J-Rock and K-pop
+- How a CPU works
 
 ## 📫 How to reach me
 - [Email](mailto:atsay.0312@gmail.com)
